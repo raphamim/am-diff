@@ -1,11 +1,11 @@
 <?php include 'partial/header.php'; ?>
-
+<style>.preloader{display:none;}</style>
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/2.jpg)">
     	<div class="auto-container">
-        	<h1>Contact Us</h1>
+        	<h1>Contactez-nous</h1>
             <ul class="bread-crumb clearfix">
-                <li><a href="index.php">Home</a></li>
+                <li><a href="index.php">Accueil</a></li>
                 <li class="active">Contact</li>
             </ul>
         </div>
@@ -21,13 +21,13 @@
                 	<div class="inner-column">
                     	<!--Sec Title-->
                         <div class="sec-title">
-                        	<h2>Get in touch with us <br> <span>For any project inquiry</span></h2>
+                        	<h2>Envie de nous parler de votre projet ? <br> <span>Envoyez-nous un E-mail.</span></h2>
                         </div>
-                        <div class="contact-number">Call us 1.369.741.2580</div>
-                        <div class="email">support@calena.com</div>
+                        <div class="contact-number">01 41 06 03 70</div>
+                        <div class="email">contact@am-diffusion.com</div>
                         <ul>
-                        	<li>360 hamill Avenue, Sea View Pleasant, NewYork 13268</li>
-                            <li>Work hours:  Mon - Fri : 0900 - 1800</li>
+                        	<li>12 Rue du Bac d'Asnières, 92110 Clichy</li>
+                            <li>Horaires: Lundi - Vendredi / 10h - 19h</li>
                         </ul>
                     </div>
                 </div>
@@ -37,19 +37,19 @@
                     <div class="contact-form">
                         <form method="post" action="sendemail.php" id="contact-form">
                             <div class="form-group">
-                                <input type="text" name="name" value="" placeholder="Your Name" required>
+                                <input type="text" name="name" value="" placeholder="Votre Nom" required>
                             </div>
                             <div class="form-group">
-                                <input type="email" name="email" value="" placeholder="Email" required>
+                                <input type="email" name="email" value="" placeholder="Votre Email" required>
                             </div>
                             <div class="form-group">
-                                <input type="text" name="subject" value="" placeholder="Write a Subject" required>
+                                <input type="text" name="subject" value="" placeholder="Sujet" required>
                             </div>
                             <div class="form-group">
-                                <textarea name="message" placeholder="Message details"></textarea>
+                                <textarea name="message" placeholder="Votre Message"></textarea>
                             </div>
                             <div class="form-group">
-                                <button type="submit" class="theme-btn btn-style-one">Send Message</button>
+                                <button type="submit" class="theme-btn btn-style-one">Envoyer</button>
                             </div>                            
                         </form>
                     </div>
@@ -60,24 +60,6 @@
     </section>
     <!--End Contact Section-->
     
-    <!--Map Section-->
-    <section class="map-section">
-    	<div class="auto-container">
-            <!--Map Outer-->
-            <div class="map-outer">
-                <!--Map Canvas-->
-                <div class="map-canvas"
-                    data-zoom="12"
-                    data-lat="-37.817085"
-                    data-lng="144.955631"
-                    data-type="roadmap"
-                    data-hue="#ffc400"
-                    data-title="Envato"
-                    data-icon-path="images/icons/map-marker.png"
-                    data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
-                </div>
-            </div>
-        </div>
-    </section>
+   
 	<!--End Map Section-->
     <?php include 'partial/footer.php';?> 

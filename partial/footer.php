@@ -8,22 +8,22 @@
             	<!--Logo Column-->
             	<div class="logo-column col-md-6 col-sm-6 col-xs-12">
                 	<div class="logo">
-                    	<a href="index.html"><img src="images/footer-logo.png" alt="" /></a>
+                    	<a href="index.php"><img src="images/parfumerie-logo.png" alt="" /></a>
                     </div>
-                    <div class="copyright">&copy; Copyrights 2017 All rights reserved.</div>
+                    <div class="copyright">&copy; AM-DIFFUSION 2017 Tous droits réservés.</div>
                 </div>
                 <!--Info Column-->
             	<div class="info-column col-md-6 col-sm-6 col-xs-12">
                 	<ul class="info-list">
-                    	<li>CALL. 1.369.741.2580</li>
-                        <li>EMAIL. support@calena.net</li>
+                        <li>12 Rue du Bac d'Asnières, 92110 Clichy</li>
+                        <li>contact@am-diffusion.com</li>
+                        <li>01 41 06 03 70</li>
+                        <li>Lundi - Vendredi / 10h - 19h</li>
                     </ul>
                     <ul class="social-icon-one">
                     	<li><a href="#"><span class="fa fa-twitter"></span></a></li>
                         <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                        <li><a href="#"><span class="fa fa-dribbble"></span></a></li>
                         <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                        <li><a href="#"><span class="fa fa-pinterest-p"></span></a></li>
                     </ul>
                 </div>
             </div>

@@ -1,5 +1,6 @@
 /* Color Theme File */
-
+/* d5156d 
+   d5156d */
 a,
 .theme_color,
 .sec-title h2 span,
@@ -32,7 +33,7 @@ a,
 .sidebar .popular-posts .post a:hover,
 .social-icon-four a:hover,
 .sidebar-page-container .comments-area .comment .comment-reply{
-	color:#2dcc8e;
+	color:#d5156d;
 }
 
 /*Background Color*/
@@ -45,7 +46,7 @@ a,
 .main-menu .navigation > li > ul > li:hover > a,
 .main-menu .navigation > li > ul > li  > ul > li > a:hover,
 .gallery-block .inner-box .image-box .overlay-box .content .icon:hover{
-	background-color:#2dcc8e;
+	background-color:#d5156d;
 }
 
 
@@ -68,13 +69,13 @@ a,
 .contact-form input:focus,
 .contact-form select:focus,
 .contact-form textarea:focus{
-	border-color:#2dcc8e;
+	border-color:#d5156d;
 }
 
 /*RGBA Color Light*/
 .gallery-block .inner-box .image-box .overlay-box,
 .default-portfolio-item .overlay-box{
-	background-color:rgba(45,204,142,0.60);
+	background-color: rgb(197,179,88);
 }
 
 /*RGBA Color Dark*/
@@ -101,7 +102,7 @@ a,
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
 	.header-style-two.inner-header .main-menu .navigation > li > a{
-		background-color:#2dcc8e;
+		background-color:#d5156d;
 	}
 	
 }

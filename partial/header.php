@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Calena HTML Template | Homepage One</title>
+<title>AM-Diffusion Parfumerie</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"><!-- REVOLUTION SETTINGS STYLES -->
@@ -41,7 +41,7 @@
                 
                     <!--Logo Box-->
                     <div class="logo-box">
-                        <div class="logo"><a href="index.php"><img src="images/logo.png" alt=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="images/parfumerie-logo.png" alt=""></a></div>
                     </div>
                     
                     <!--Nav Outer-->
@@ -61,8 +61,8 @@
                                 <ul class="navigation clearfix">
                                     <li><a href="index.php">Accueil</a></li>
                                     <li><a href="about.php">Qui sommes-nous ?</a></li>
-                                    <li class="dropdown"><a href="projects.php">Créations</a></li>
-                                   	<li><a href="contact.php">Contact</a></li>
+                                    <li class="dropdown"><a href="projects.php">Nos gammes</a></li>
+                                   	<li><a href="contact.php">Contactez-nous</a></li>
                                  </ul>
                             </div>
                         </nav>
@@ -72,7 +72,7 @@
                     <!--Nav Outer End-->
                     
                     <!--Number-->
-                    <div class="number">call us 1.369.741.2580</div>
+                    <div class="number">Depuis 1926</div>
                     
             	</div>    
             </div>

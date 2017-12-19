@@ -5,8 +5,8 @@
     	<div class="auto-container">
         	<h1>Our Portfolio</h1>
             <ul class="bread-crumb clearfix">
-                <li><a href="index.php">Home</a></li>
-                <li class="active">Works</li>
+                <li><a href="index.php">Accueil</a></li>
+                <li class="active">Nos gammes</li>
             </ul>
         </div>
     </section>
@@ -17,7 +17,7 @@
     	<div class="auto-container">
         	<!--Section Title-->
         	<div class="sec-title centered">
-            	<h2>Designed to Make Your Portfolio Look More <span>Powerful</span></h2>
+            	<h2>Découvrez en détails <span>nos différentes gammes</span></h2>
                 <div class="text">Consectetur adipisicing elits ed eiusmod tempor cididut labore dolore magna aliqua ua enimad min veniam quis nostrud exercitation ullamco laboris <br> nisi uas aliquip comdo sed consequat duis aute rure dolor reprehenderitn volupta velit esse cillumad minim veniam quis.</div>
                 <div class="logo-separator">c</div>
             </div>
@@ -29,11 +29,11 @@
                 <div class="filters text-center clearfix">
                 	
                 	<ul class="filter-tabs filter-btns clearfix">
-                        <li class="active filter" data-role="button" data-filter="all">All</li>
-                        <li class="filter" data-role="button" data-filter=".business">Branding</li>
-                        <li class="filter" data-role="button" data-filter=".coaching">Logo</li>
-                        <li class="filter" data-role="button" data-filter=".financial">illustration</li>
-                        <li class="filter" data-role="button" data-filter=".investment">Video</li>
+                        <li class="active filter" data-role="button" data-filter="all">Toutes les collections</li>
+                        <li class="filter" data-role="button" data-filter=".business">Diane Castel</li>
+                        <li class="filter" data-role="button" data-filter=".coaching">St Hubert</li>
+                        <li class="filter" data-role="button" data-filter=".financial">AM-Diffusion</li>
+                        <li class="filter" data-role="button" data-filter=".investment">Nouveautés</li>
                     </ul>
                     
                 </div>
@@ -48,7 +48,7 @@
                                 <div class="overlay-box">
                                 	<div class="overlay-inner">
                                         <div class="content">
-                                            <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a>
+                                            <!-- <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a> -->
                                             <a href="images/gallery/1.jpg" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-search"></span></a>
                                         </div>
                                     </div>
@@ -65,7 +65,7 @@
                                 <div class="overlay-box">
                                 	<div class="overlay-inner">
                                         <div class="content">
-                                            <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a>
+                                            <!-- <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a> -->
                                             <a href="images/gallery/2.jpg" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-search"></span></a>
                                         </div>
                                     </div>
@@ -82,7 +82,7 @@
                                 <div class="overlay-box">
                                 	<div class="overlay-inner">
                                         <div class="content">
-                                            <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a>
+                                            <!-- <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a> -->
                                             <a href="images/gallery/3.jpg" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-search"></span></a>
                                         </div>
                                     </div>
@@ -99,7 +99,7 @@
                                 <div class="overlay-box">
                                 	<div class="overlay-inner">
                                         <div class="content">
-                                            <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a>
+                                            <!-- <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a> -->
                                             <a href="images/gallery/4.jpg" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-search"></span></a>
                                         </div>
                                     </div>
@@ -116,7 +116,7 @@
                                 <div class="overlay-box">
                                 	<div class="overlay-inner">
                                         <div class="content">
-                                            <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a>
+                                            <!-- <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a> -->
                                             <a href="images/gallery/5.jpg" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-search"></span></a>
                                         </div>
                                     </div>
@@ -133,7 +133,7 @@
                                 <div class="overlay-box">
                                 	<div class="overlay-inner">
                                         <div class="content">
-                                            <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a>
+                                            <!-- <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a> -->
                                             <a href="images/gallery/6.jpg" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-search"></span></a>
                                         </div>
                                     </div>
@@ -144,10 +144,10 @@
                     
                 </div>
             </div>
-            <br>
+            <!-- <br>
             <div class="text-center">
             	<a href="#" class="theme-btn btn-style-three">view more</a>
-            </div>
+            </div> -->
             
         </div>
     </section>
