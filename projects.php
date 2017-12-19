@@ -3,7 +3,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/2.jpg)">
     	<div class="auto-container">
-        	<h1>Our Portfolio</h1>
+        	<h1>Découvrez nos parfums</h1>
             <ul class="bread-crumb clearfix">
                 <li><a href="index.php">Accueil</a></li>
                 <li class="active">Nos gammes</li>
