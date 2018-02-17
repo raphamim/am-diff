@@ -1,16 +1,5 @@
 <?php include 'partial/header.php'; ?>
 <style>.preloader{display:none;}</style>
-    <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/2.jpg)">
-    	<div class="auto-container">
-        	<h1>Contactez-nous</h1>
-            <ul class="bread-crumb clearfix">
-                <li><a href="index.php">Accueil</a></li>
-                <li class="active">Contact</li>
-            </ul>
-        </div>
-    </section>
-    <!--End Page Title-->
     
     <!--Contact Section-->
     <section class="contact-section">

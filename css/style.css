@@ -1008,7 +1008,7 @@ img{
 
 .project-section .filters li:after{
 	position:absolute;
-	content:'/';
+	/* content:'/'; */
 	right:-2px;
 	top:2px;
 	font-size:12px;

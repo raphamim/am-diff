@@ -9,6 +9,7 @@
 <link href="plugins/revolution/css/layers.css" rel="stylesheet" type="text/css"><!-- REVOLUTION LAYERS STYLES -->
 <link href="plugins/revolution/css/navigation.css" rel="stylesheet" type="text/css"><!-- REVOLUTION NAVIGATION STYLES -->
 <link href="css/style.css" rel="stylesheet">
+<link href="css/temp.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
 
 
@@ -41,7 +42,7 @@
                 
                     <!--Logo Box-->
                     <div class="logo-box">
-                        <div class="logo"><a href="index.php"><img src="images/parfumerie-logo.png" alt=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="images/parfumerie-logo.png" alt="logo-amdiffusion"></a></div>
                     </div>
                     
                     <!--Nav Outer-->
@@ -72,7 +73,7 @@
                     <!--Nav Outer End-->
                     
                     <!--Number-->
-                    <div class="number">Depuis 1926</div>
+                    <!-- <div class="number">Depuis 1926</div> -->
                     
             	</div>    
             </div>
