@@ -75,7 +75,7 @@ a,
 /*RGBA Color Light*/
 .gallery-block .inner-box .image-box .overlay-box,
 .default-portfolio-item .overlay-box{
-	background-color: rgb(197,179,88);
+	background-color: rgba(197,179,88, 0.8);
 }
 
 /*RGBA Color Dark*/

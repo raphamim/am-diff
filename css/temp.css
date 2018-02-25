@@ -26,10 +26,8 @@ footer .info-column {
 @media only screen and (min-width: 900px){
 
 .menu-home {
-    max-width: 940px;
-    margin: 0 auto;
-    margin-bottom: 150px; 
-    margin-top: 30px;
+    max-width: 1040px;
+    margin: 30px auto;
 }
 /* TEMPORAIRE POUR TEST ! */
 .menu-home img:first-of-type {
@@ -41,7 +39,7 @@ footer .info-column {
 }
 .menu-home ul li {
     display: inline-block;
-    max-width: 29.333%;
+    max-width: 29%;
     margin: 0 2%;
     vertical-align: top;
 }
@@ -70,3 +68,28 @@ footer .info-column {
 .logo-projects {
     width: 250px;
 }
+/* IMAGE HOME HOVER */
+.middle-img {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    /* left: 50%; */
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    text-align: center;
+  }
+  
+  .line-home:hover img {
+    opacity: 0.3;
+  }
+  
+  .line-home:hover .middle-img {
+    opacity: 1;
+  }
+  .title-menu-home {
+    position: relative;
+    left: 40%;
+    width: 163px;
+}
+/* FIN IMAGE HOME HOVER */

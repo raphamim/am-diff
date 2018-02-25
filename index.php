@@ -7,15 +7,22 @@
             <ul class="list-home">
                 <li class="line-home">
                     <a href="#"><img src="images/expertise.jpg" alt="expertise"></a>
-                    <a href="#" class="title-menu-home">Expertise depuis 1926</a>    
+                    <div class="middle-img">
+                        <a href="#" class="title-menu-home">Expertise depuis 1926</a> 
+                    </div>    
                 </li>
                 <li class="line-home">
                     <a href="#"><img src="images/creation.jpg" alt="creation"></a>
-                    <a href="#" class="title-menu-home">Création de votre propre gamme de parfum</a>    
+                    <div class="middle-img">
+                        <a href="#" class="title-menu-home">Distribution de nos gammes parfumées</a> 
+                    </div>
+                       
                 </li>
                 <li class="line-home">
                     <a href="#"><img src="images/fabrication.jpg" alt="fabrication"></a>
-                    <a href="#" class="title-menu-home">Fabrication de vos parfums sur mesure</a>    
+                    <div class="middle-img">
+                        <a href="#" class="title-menu-home">Fabrication de vos parfums sur mesure</a>
+                    </div>    
                 </li>
             </ul>
         </div>
