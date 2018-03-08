@@ -64,6 +64,23 @@
 <script src="js/wow.js"></script>
 <script src="js/appear.js"></script>
 <script src="js/script.js"></script>
+<script>
+    function footerPosition() {
+        var mainHeight = $('main').height();
+        var headerHeight = $('header').height();
+        var footerHeight = $('footer').height();
+        var documentHeight = $(document).height();
+		var elementHeight = headerHeight + footerHeight + mainHeight;
+        var positionFooter = documentHeight - elementHeight;
+        $('footer').css("position", "relative");
+        $('footer').css("top", positionFooter);
+		
+    }
+    if  ($(document).height() > 668 ) {
+        footerPosition();
+        console.log('footerPosition ON');
+    }
+    </script>
 
 </body>
 </html>

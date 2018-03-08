@@ -71,7 +71,7 @@
 			},
 
 			layout: {
-				display: 'inline-block',
+				display: 'none',
 				containerClass: '',
 				containerClassFail: 'fail'
 			},

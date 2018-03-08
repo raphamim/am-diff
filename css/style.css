@@ -960,7 +960,7 @@ img{
 
 .project-section{
 	position:relative;
-	padding:115px 0px 100px;
+	padding:0;
 }
 
 .project-section .filters{
@@ -1307,7 +1307,7 @@ img{
 }
 
 .mission-section .content-column .inner-column .sec-title{
-	margin-bottom:55px;
+	margin-bottom:10px;
 }
 
 /*** 
@@ -1375,7 +1375,7 @@ img{
 	color:#777777;
 	font-size:15px;
 	font-weight:300;
-	margin-bottom:18px;
+	margin-bottom:5px;
 	font-family: 'Lato', sans-serif;
 }
 
@@ -3626,7 +3626,7 @@ img{
 
 .contact-section{
 	position:relative;
-	padding:100px 0px 120px;
+	padding: 15px 0 10px 0;
 }
 
 .contact-section .title-column{

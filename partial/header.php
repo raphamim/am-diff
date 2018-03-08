@@ -61,8 +61,8 @@
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
                                     <li><a href="index.php">Accueil</a></li>
-                                    <li><a href="about.php">Qui sommes-nous ?</a></li>
-                                    <li class="dropdown"><a href="projects.php">Nos gammes</a></li>
+                                    <li><a href="a-propos.php">Qui sommes-nous ?</a></li>
+                                    <li class="dropdown"><a href="nos-gammes.php">Nos gammes</a></li>
                                    	<li><a href="contact.php">Contactez-nous</a></li>
                                  </ul>
                             </div>
