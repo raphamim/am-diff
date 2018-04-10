@@ -69,12 +69,15 @@
 
 }
 
-@media only screen and (min-width: 768px){
+@media only screen and (min-width: 895px){
 	.main-menu .navigation > li > ul,
 	.main-menu .navigation > li > ul > li > ul{
 		display:block !important;
 		visibility:hidden;
 		opacity:0;
+	}
+	.ranges-mobile {
+		display: none;
 	}
 }
 
@@ -152,7 +155,10 @@
 	
 }
 
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 894px){
+	.ranges-desktop {
+		display: none;
+	}
 	
 	.header-upper .logo-outer {
 		position:relative;
@@ -492,7 +498,7 @@
 	}
 	
 }
-@media only all and (min-width: 820px) {
+@media only all and (min-width: 879px) {
 
 	.main-header .main-box {
 		height: 210px;

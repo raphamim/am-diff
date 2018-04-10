@@ -18,7 +18,7 @@
 
                 <!-- SAINT HUBERT -->
                 <div class="filter-list row clearfix">
-					<?php for ($i = 1; $i <= 29; $i++ ) { ?> 
+					<?php for ($i = 1; $i <= 27; $i++ ) { ?> 
                     <!--Gallery Block-->
                     <div class="gallery-block mix all saint-hubert col-lg-4 col-md-4 col-sm-6 col-xs-12">
                         <div class="inner-box">
@@ -66,7 +66,7 @@
 
                 <!-- EXCLUSIVITES AM DIFFUSION -->
                 <div class="filter-list row clearfix">
-					<?php for ($i = 1; $i <= 3; $i++ ) { ?> 
+					<?php for ($i = 1; $i <= 4; $i++ ) { ?> 
                     <!--Gallery Block-->
                     <div class="gallery-block mix all exclusivites col-lg-4 col-md-4 col-sm-6 col-xs-12">
                         <div class="inner-box">
@@ -99,21 +99,22 @@
     <!--End Project Section-->
     <?php include 'partial/footer.php';?> 
     <script>
+    $('.preloader').delay(3000).fadeOut();
         $( ".filter-dianecastel" ).click(function() {
             $('.am-diffusion .all').css("display", "none");
             $('footer').css("display", "none");
-            $('.am-diffusion .diane-castel').css("display", "inline-block");
+            $('.am-diffusion .diane-castel').css("display", "block");
         });
 
         $( ".filter-sainthubert" ).click(function() {
             $('.am-diffusion .all').css("display", "none");
             $('footer').css("display", "none");
-            $('.am-diffusion .saint-hubert').css("display", "inline-block");
+            $('.am-diffusion .saint-hubert').css("display", "block");;
         });
 
         $( ".filter-exclusivites" ).click(function() {
             $('.am-diffusion .all').css("display", "none");
             $('footer').css("display", "none");
-            $('.am-diffusion .exclusivites').css("display", "inline-block");
+            $('.am-diffusion .exclusivites').css("display", "block");;
         });
     </script>

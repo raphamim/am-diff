@@ -885,21 +885,24 @@ img{
 	margin-bottom:40px;
 }
 
-.sec-title h2{
+.sec-title h2, .mission-info-tabs h2{
 	position:relative;
 	color:#000000;
-	font-size:36px;
+	font-size:28px;
 	line-height:1.2em;
 }
+.mission-info-tabs h2 {
+	margin: 12px 0;
+}
 
-.sec-title h2 span{
-	color:#2dcb8e;
-	font-size:36px;
+.sec-title h2 span, .mission-info-tabs h2 span{
+	color:#d5156d;
+	font-size:28px;
 	font-style:italic;
 	font-family: 'Playfair Display', serif;
 }
 
-.sec-title h2 span.purple-border{
+.sec-title h2 span.purple-border, .mission-info-tabs h2 span.purple-border{
 	border-bottom:2px solid rgb(197,179,88);
 }
 
@@ -3957,4 +3960,13 @@ img{
 
 footer .logo img {
 	width: 230px;
+} 
+.ranges-desktop .dropdown-item {
+	display: block;
+	min-width: 252px;
+	padding: 10px 15px;
+}
+.ranges-desktop .open>.dropdown-menu {
+	z-index: 100000 !important;
+	background-color: black;
 }

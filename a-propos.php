@@ -15,7 +15,7 @@
                 	<div class="inner-column">
                     	<!--Sec Title-->
                         <div class="sec-title">
-                        <h2>Notre expertise au service <br><span class="purple-border">de votre parfum</span></h2>
+                        <h2>Notre expertise au service <span class="purple-border">de votre parfum</span></h2>
                     </div>
                     <!--Mission Info Tabs-->
                     <div class="mission-info-tabs">
@@ -41,7 +41,7 @@
                                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Création de vos parfums clé en main à votre marque</b> : depuis plus de 10 ans, nous avons mis notre savoir faire et notre expertise à votre service en fabriquant sur mesure vos gammes parfumées.
                                                 </p>
                                                 <p>Notre objectif est d’offrir à chacun la possibilité de <b>ressentir une émotion</b> grâce à nos parfums en proposant une <b>excellente qualité française</b> à des <b>prix abordables</b>.</p>
-                                                <p style="text-decoration:underline;"><b style="font-family: 'Source Sans Pro', sans-serif;"> Notre atout :<b/><b style="font-family: 'Playfair Display', serif;font-style: italic;font-weight:300;"> une grande flexibilité</b></p>
+                                                <h2>Notre atout : <span class="purple-border">une grande flexibilité</span></h2>
                                                 <p>Avec des centaines de références créées, nous proposons une <b>large gamme</b> de produits  de différents designs, familles olfactives et prix, <b>que nous adaptons à toutes vos demandes</b>.</p>
                                             </div>
                                             <!--End Business Info Tabs-->

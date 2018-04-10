@@ -78,7 +78,6 @@
     }
     if  ($(document).height() > 668 ) {
         footerPosition();
-        console.log('footerPosition ON');
     }
     </script>
 

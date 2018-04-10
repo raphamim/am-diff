@@ -13,3 +13,8 @@
     </section>
     <!--End Project Section-->
     <?php include 'partial/footer.php';?>
+    <script>
+    if  ($(document).height() < 668 ) {
+        $('.ranges-section').css("top", "0");
+    }
+    </script>

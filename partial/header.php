@@ -62,8 +62,17 @@
                                 <ul class="navigation clearfix">
                                     <li><a href="index.php">Accueil</a></li>
                                     <li><a href="a-propos.php">Qui sommes-nous ?</a></li>
-                                    <li class="dropdown"><a href="nos-gammes.php">Nos gammes</a></li>
-                                   	<li><a href="contact.php">Contactez-nous</a></li>
+                                    <li class="ranges-desktop nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Nos gammes
+                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                        <a class="dropdown-item" href="am-diffusion.php">Distribution exclusive AM-Diffusion</a>
+                                        <a class="dropdown-item" href="private-label.php">Fabrication Private Label</a>
+                                        </div>
+                                    </li>
+                                    <li class="dropdown ranges-mobile"><a href="nos-gammes.php">Nos gammes</a></li>
+                                       <li><a href="contact.php">Contactez-nous</a></li>
                                  </ul>
                             </div>
                         </nav>

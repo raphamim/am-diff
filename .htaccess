@@ -1,0 +1,7 @@
+Redirect "http://amdiffusion-parfums.com/fr" "http://amdiffusion-parfums.com"
+Redirect "http://www.amdiffusion-parfums.com/parfums/" "http://amdiffusion-parfums.com/nos-gammes.php"
+Redirect "http://amdiffusion-parfums.com/fr/index.php?option=com_content&view=article&id=1&Itemid=1" "http://amdiffusion-parfums.com"
+
+redirect 301 /fr http://amdiffusion-parfums.com
+redirect 301 /parfums/ http://amdiffusion-parfums.com/nos-gammes.php
+redirect 301 /fr/index.php?option=com_content&view=article&id=1&Itemid=1 http://amdiffusion-parfums.com

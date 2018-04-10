@@ -49,4 +49,5 @@
         </div>
     </section>
     <!--End Project Section-->
-    <?php include 'partial/footer.php';?> 
+    <?php include 'partial/footer.php';?>
+    <script>$('.preloader').delay(3000).fadeOut();</script> 

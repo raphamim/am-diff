@@ -10,7 +10,8 @@
                 	<div class="inner-column">
                     	<!--Sec Title-->
                         <div class="sec-title">
-                        	<h2>Envie de nous parler de votre projet ? <br> <span>Envoyez-nous un E-mail.</span></h2>
+                        	<h2>Vous avez un projet de création de parfums ou vous êtes intéressés par l’un de nos produits ?
+                             <br> <span>Contactez nous afin de l'élaborer ensemble.</span></h2>
                         </div>
                         <div class="contact-number">01 41 06 03 70</div>
                         <div class="email">contact@amdiffusion-parfums.com</div>
