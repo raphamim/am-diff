@@ -160,3 +160,16 @@ footer .info-column {
     border-bottom: solid 1px #d5156d;
 }
 }
+
+.gallery-block button {
+    background: transparent;
+}
+.pyramide .modal-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+.pyramide .modal-footer {
+    text-align: center;
+    font-style: italic;
+}
