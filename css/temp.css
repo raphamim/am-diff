@@ -68,6 +68,10 @@ footer .info-column {
 .logo-projects {
     width: 250px;
 }
+.private-label .logo-projects {
+    width: 180px;
+}
+
 /* IMAGE HOME HOVER */
 .middle-img {
     transition: .5s ease;
@@ -168,8 +172,49 @@ footer .info-column {
     text-align: center;
     font-weight: bold;
     font-size: 25px;
+    text-transform: uppercase;
 }
 .pyramide .modal-footer {
     text-align: center;
     font-style: italic;
+}
+.ranges-desktop.nav-item.dropdown .dropdown-item {
+    text-transform: uppercase;
+}
+.title-private-label {
+    /* font-size: 20px; */
+    width: 80%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 40px;
+}
+.title-private-label h2 {
+    font-size: 22px;
+}
+.title-private-label h2 span {
+    font-size: 24px;
+}
+.diane-castel-text.text-overlay {
+    font-weight: 700;
+    font-size: 1.2em;
+}
+.fancybox-next,
+.fancybox-prev {
+    display: none !important;
+}
+.lang {
+    position: relative;
+    bottom: 2px;
+}
+.fa-pyramid {
+    position: relative;
+    top: 6px;
+}
+
+.private-label.project-section h2 {
+    max-width: 900px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
 }

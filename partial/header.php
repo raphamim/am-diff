@@ -67,12 +67,13 @@
                                         Nos gammes
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                        <a class="dropdown-item" href="am-diffusion.php">Distribution exclusive AM-Diffusion</a>
+                                        <a class="dropdown-item" href="am-diffusion.php">Distribution exclusive AM Diffusion</a>
                                         <a class="dropdown-item" href="private-label.php">Fabrication Private Label</a>
                                         </div>
                                     </li>
                                     <li class="dropdown ranges-mobile"><a href="nos-gammes.php">Nos gammes</a></li>
                                        <li><a href="contact.php">Contactez-nous</a></li>
+                                       <li><a href="en/index.php"><img class="lang" src="images/lang/united-kingdom.png" alt="English"></a></li>
                                  </ul>
                             </div>
                         </nav>

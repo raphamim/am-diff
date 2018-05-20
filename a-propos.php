@@ -36,12 +36,12 @@
                                         <div class="content">
                                             <div class="text">
                                             	<p>Depuis 1926, <b>Parfumerie AM DIFFUSION</b> est spécialisée dans l’élaboration et la fabrication « made in France » de parfums pour tous types de marchés, du mass market au haut de gamme. </p>
-                                                <p>Notre activité se décompose en deux secteurs principaux :<br/>
-                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>La fabrication de nos propres gammes de parfums</b> : avec plusieurs centaines de références créées nous sommes un acteur incontournable sur les marchés mass et mid market .<br/>
-                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Création de vos parfums clé en main à votre marque</b> : depuis plus de 10 ans, nous avons mis notre savoir faire et notre expertise à votre service en fabriquant sur mesure vos gammes parfumées.
+                                                <p>Notre activité se décompose en deux secteurs principaux:<br/>
+                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>La fabrication de nos propres gammes de parfums</b> : avec plusieurs centaines de références créées, nous sommes un acteur incontournable pour les parfums du mass market au premium.<br/>
+                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Création de vos parfums clé en main à votre marque</b> : depuis plus de 10 ans, nous avons mis notre savoir-faire et notre expertise à votre service en fabriquant sur mesure vos gammes parfumées.
                                                 </p>
                                                 <p>Notre objectif est d’offrir à chacun la possibilité de <b>ressentir une émotion</b> grâce à nos parfums en proposant une <b>excellente qualité française</b> à des <b>prix abordables</b>.</p>
-                                                <h2>Notre atout : <span class="purple-border">une grande flexibilité</span></h2>
+                                                <h2>Notre atout: <span class="purple-border">une grande flexibilité</span></h2>
                                                 <p>Avec des centaines de références créées, nous proposons une <b>large gamme</b> de produits  de différents designs, familles olfactives et prix, <b>que nous adaptons à toutes vos demandes</b>.</p>
                                             </div>
                                             <!--End Business Info Tabs-->

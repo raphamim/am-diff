@@ -995,7 +995,7 @@ img{
     color: #000000;
 	padding:0px 12px;
     cursor: pointer;
-    font-size: 12px;
+    font-size: 20px;
     font-weight: 400;
     text-transform: uppercase;
     transition: all 300ms ease;
@@ -3963,7 +3963,7 @@ footer .logo img {
 } 
 .ranges-desktop .dropdown-item {
 	display: block;
-	min-width: 252px;
+	min-width: 306px;
 	padding: 10px 15px;
 }
 .ranges-desktop .open>.dropdown-menu {
