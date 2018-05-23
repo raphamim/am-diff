@@ -45,7 +45,7 @@ $dianeCastel = array (
                                 	<div class="overlay-inner">
                                         <div class="content">
                                             <!-- <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a> -->
-                                            <a href="images/gallery/st-hubert/st-hubert_<?=$i;?>.jpg" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-search"></span></a>
+                                            <a href="images/gallery/st-hubert/st-hubert_<?=$i;?>.jpg" class="icon image-link lightbox-image" data-fancybox-group="saint-hubert" title=""><span class="fa fa-search"></span></a>
                                             <!-- <a href="#" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-flask"></span></a> -->
                                         </div>
                                     </div>
@@ -70,7 +70,7 @@ $dianeCastel = array (
                                         <div class="content">
                                             <p class="diane-castel-text text-overlay"><?= $dianeCastel[$i-1];?></p>
                                             <!-- <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a> -->
-                                            <a href="images/gallery/diane-castel/diane-castel_<?=$i;?>bis.jpg" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-search"></span></a>
+                                            <a href="images/gallery/diane-castel/diane-castel_<?=$i;?>bis.jpg" class="icon image-link lightbox-image" data-fancybox-group="diane-castel" title=""><span class="fa fa-search"></span></a>
 
                                             
                                             <!-- Button trigger modal -->
@@ -100,7 +100,7 @@ $dianeCastel = array (
                                 	<div class="overlay-inner">
                                         <div class="content">
                                             <!-- <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a> -->
-                                            <a href="images/gallery/essentiels/essentiels_<?=$i;?>.jpg" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-search"></span></a>
+                                            <a href="images/gallery/essentiels/essentiels_<?=$i;?>.jpg" class="icon image-link lightbox-image" data-fancybox-group="essentiels" title=""><span class="fa fa-search"></span></a>
                                             <!-- <a href="#" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-flask"></span></a> -->
                                         </div>
                                     </div>
@@ -124,7 +124,7 @@ $dianeCastel = array (
                                 	<div class="overlay-inner">
                                         <div class="content">
                                             <!-- <a href="projects-single.php" class="icon"><span class="fa fa-link"></span></a> -->
-                                            <a href="images/gallery/exclusivites/exclusivites_<?=$i;?>.jpg" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-search"></span></a>
+                                            <a href="images/gallery/exclusivites/exclusivites_<?=$i;?>.jpg" class="icon image-link lightbox-image" data-fancybox-group="exclusivites" title=""><span class="fa fa-search"></span></a>
                                             <!-- <a href="#" class="icon image-link lightbox-image" data-fancybox-group="example-gallery" title=""><span class="fa fa-flask"></span></a> -->
                                         </div>
                                     </div>

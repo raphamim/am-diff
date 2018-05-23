@@ -199,10 +199,6 @@ footer .info-column {
     font-weight: 700;
     font-size: 1.2em;
 }
-.fancybox-next,
-.fancybox-prev {
-    display: none !important;
-}
 .lang {
     position: relative;
     bottom: 2px;
