@@ -8,7 +8,7 @@
                 <!--Info Column-->
             	<div class="info-column col-md-6 col-sm-6 col-xs-12">
                 	<ul class="info-list">
-                        <li>12 Rue du Bac d'Asnières, 92110 Clichy</li>
+                        <li>12 rue du Bac d'Asnières, 92110 Clichy</li>
                         <li>contact@am-diffusion.com</li>
                         <li>+33 1 41 06 03 70</li>
                         <li>&copy; AM-DIFFUSION 2017 All rights reserved.</li>

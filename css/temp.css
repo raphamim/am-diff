@@ -209,8 +209,15 @@ footer .info-column {
 }
 
 .private-label.project-section h2 {
-    max-width: 900px;
+    max-width: 800px;
     position: relative;
     left: 50%;
     transform: translateX(-50%);
+}
+
+.private-label.project-section .filters li {
+    padding: 0px 61px;
+}
+.contact-section .title-column.col-md-5.col-sm-12.col-xs-12 {
+    width: 40.66666667%;
 }

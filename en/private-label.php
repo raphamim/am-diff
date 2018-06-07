@@ -1,4 +1,5 @@
 <?php include 'partial/header.php'; ?>
+<style>.private-label.project-section h2 {max-width: 720px;}</style>
     <!--Project Section-->
     <section class="project-section private-label">
     <div class="sec-title centered title-private-label">

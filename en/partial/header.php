@@ -61,7 +61,7 @@
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
                                     <li><a href="index.php">Home</a></li>
-                                    <li><a href="about.php">Who are we ? </a></li>
+                                    <li><a href="about.php">Who are we? </a></li>
                                     <li class="ranges-desktop nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         Our Portfolio

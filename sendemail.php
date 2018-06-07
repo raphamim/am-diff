@@ -20,6 +20,7 @@ if ( $firstName && $senderEmail && $senderSubject && $message) {
    Message : " . $message . "";
   $success = mail( $recipient, $headers, $msgBody );
   $headerSuccess ="Merci pour votre message !";
+  $headersSuccess .='Content-Type: text/plain; charset="utf-8"'." ";
   $msgSuccess ="
   Parfumerie AM DIFFUSION a bien reçu votre message. Nous ne manquerons pas d’y répondre dans les plus brefs délais.\n
   Vous pouvez également nous contacter au 01.41.06.03.70\n
@@ -29,6 +30,7 @@ if ( $firstName && $senderEmail && $senderSubject && $message) {
   Best regards,\n \n \n
   
   PARFUMERIE AM DIFFUSION";
+  
 
   mail($senderEmail, $headerSuccess, $msgSuccess);
   header('Location: contact.php?message=Successfull');

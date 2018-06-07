@@ -16,7 +16,7 @@
                         <div class="contact-number">01 41 06 03 70</div>
                         <div class="email">contact@amdiffusion-parfums.com</div>
                         <ul>
-                        	<li>12 Rue du Bac d'Asnières, 92110 Clichy</li>
+                        	<li>12 rue du Bac d'Asnières, 92110 Clichy</li>
                             <li>Horaires : Lundi - Vendredi / 10h - 19h</li>
                         </ul>
                     </div>
