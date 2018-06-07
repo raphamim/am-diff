@@ -221,3 +221,21 @@ footer .info-column {
 .contact-section .title-column.col-md-5.col-sm-12.col-xs-12 {
     width: 40.66666667%;
 }
+
+.contact-form-validate {
+    background-color: #8fd29b;
+    padding: 10px;
+    border: solid 1px;
+    color: #006304;
+    max-width: 380px;
+}
+.contact-form-validate h1 {
+    font-size: 21px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1024px){
+    .contact-section .title-column.col-md-5.col-sm-12.col-xs-12 {
+        display: none;
+    }
+}

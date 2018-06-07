@@ -3,3 +3,4 @@ Disallow:
 Disallow: /partial/
 Disallow: /en/
 Disallow: /sendemail.php
+Disallow: /message-sent.php

@@ -31,7 +31,7 @@ if ( $firstName && $senderEmail && $senderSubject && $message) {
   PARFUMERIE AM DIFFUSION";
 
   mail($senderEmail, $headerSuccess, $msgSuccess);
-  header('Location: contact.php?message=Successfull');
+  header('Location: message-sent.php');
 }
 
 else{

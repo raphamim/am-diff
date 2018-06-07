@@ -39,7 +39,7 @@
                                 <textarea name="message" placeholder="Your message..."></textarea>
                             </div>
                             <div class="form-group">
-                                <button type="submit" class="theme-btn btn-style-one">Send</button>
+                                <button class="submit-contact" type="submit" class="theme-btn btn-style-one">Send</button>
                             </div>                            
                         </form>
                     </div>
@@ -50,6 +50,6 @@
     </section>
     <!--End Contact Section-->
     
-   
+ 
 	<!--End Map Section-->
-    <?php include 'partial/footer.php';?> 
+    <?php include 'partial/footer.php';?>
