@@ -239,3 +239,6 @@ footer .info-column {
         display: none;
     }
 }
+.modal-header .close {
+    margin-top: -40px;
+}

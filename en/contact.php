@@ -11,7 +11,7 @@
                     	<!--Sec Title-->
                         <div class="sec-title">
                         	<h2>If you have a perfume creation project or are interested by one of our products,
-                             <br> <span>don’t hesitate to contact us in order to develop it together.</span></h2>
+                             <span> don’t hesitate to contact us in order to develop it together.</span></h2>
                         </div>
                         <div class="contact-number">+33 1 41 06 03 70</div>
                         <div class="email">contact@amdiffusion-parfums.com</div>
