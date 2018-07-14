@@ -13,12 +13,22 @@ $message = isset( $_POST['message'] ) ? preg_replace( "/(From:|To:|BCC:|CC:|Subj
 if ( $firstName && $senderEmail && $senderSubject && $message) {
   $recipient = RECIPIENT_NAME . " <" . RECIPIENT_EMAIL . ">";
   $headers = "Contact depuis le site web : " . $firstName . " <" . $senderEmail . ">";
-  $msgBody = "Mail reçu depuis le site web.\n
+  $msgBody = "Formulaire depuis le site web.\n
    Nom : " . $firstName ."\n 
    Mail : ". $senderEmail ."\n 
    Sujet : ". $senderSubject . " \n
    Message : " . $message . "";
   $success = mail( $recipient, $headers, $msgBody );
+
+  $headerSuccess ="Thank you for your mail!";
+  $msgSuccess ="
+  We’ll revert to you as soon as possible.\n
+  You can also contact us by phone 00.33.1.41.06.03.70\n
+  Best regards,\n \n
+  
+  PARFUMERIE AM DIFFUSION";
+
+  mail($senderEmail, $headerSuccess, $msgSuccess);
   header('Location: message-sent.php');
 }
 

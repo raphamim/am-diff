@@ -9,7 +9,7 @@
  * Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php)
  */
 (function($) {
-    $.fn.appear = function(fn, options) {
+    $.fn.appear = function(fn, options) { 
 
         var settings = $.extend({
 

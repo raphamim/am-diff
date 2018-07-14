@@ -492,7 +492,7 @@
 		this.leave('initializing');
 		this.trigger('initialized');
 	};
-
+	
 	/**
 	 * Setups the current settings.
 	 * @todo Remove responsive classes. Why should adaptive designs be brought into IE8?

@@ -19,6 +19,19 @@ if ( $firstName && $senderEmail && $senderSubject && $message) {
    Sujet : ". $senderSubject . " \n
    Message : " . $message . "";
   $success = mail( $recipient, $headers, $msgBody );
+  
+  $headerSuccess ="Merci de votre mail!";
+  $msgSuccess ="
+  Merci de votre mail !\n
+  Nous revenons vers vous le plus rapidement possible.\n
+  Vous pouvez également nous contacter au 01.41.06.03.70\n
+  A bientôt \n \n
+  
+  Best regards,\n \n \n
+  
+  PARFUMERIE AM DIFFUSION";
+
+  mail($senderEmail, $headerSuccess, $msgSuccess);
   header('Location: message-sent.php');
 }
 

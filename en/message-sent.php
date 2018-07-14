@@ -25,7 +25,7 @@
                 <div class="form-column col-md-7 col-sm-12 col-xs-12">
                 	<!--Contact Form-->
                     <div class="contact-form-validate">
-                        <h1 class="validation-contact">Your message has been sent !</h1>
+                        <h1 class="validation-contact">Your message has been sents!</h1>
                     </div>
                     <!--End Contact Form-->
                 </div>
